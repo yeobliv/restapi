@@ -8,7 +8,7 @@
 - High-level: The plugin influences the behavior of the displayed page and can control the engine logic.
 
 ## Installation 📦
-Copy the `restapi.php` file unzipped from the archive, go to the root section of the Spider project, then select folders `s` (create a `sd`folder if necessary) and paste the copied file
+Copy the `restapi.php` file unzipped from the archive, go to the root section of the Spider project, then select folders `/private/plugins/interface` (create an `/interface` folder if necessary) and paste the copied file
 
 ## Usage Example 💻
 
