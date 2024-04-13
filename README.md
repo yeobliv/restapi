@@ -17,6 +17,8 @@ Basic example with using all functions, to output array in JSON for REST API ser
 use Interface\RESTAPI;
 
 $api = new RESTAPI();
+
+$api->buffer_flush();
 $api->set_header();
 $data = ['name' => 'John', 'age' => 30];
 $api->display_data($data);
